@@ -1,1 +1,11 @@
 /* your code */
+table{
+	border-style:solid;
+	border-width:1px;
+}
+thead{
+	background:royalblue
+}
+th{
+	color:wheat
+}
